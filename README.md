@@ -2,7 +2,7 @@
 
 A single-page interactive quotation prepared for **Serop Elmayan** at Trainsonic.
 
-[**View the quote →**](https://example.github.io/trainsonic/) <!-- replace with actual Pages URL after deploy -->
+[**View the quote →**](https://bryan-odhiambo.github.io/trainsonic-quote/)
 
 ## What's in this repo
 
