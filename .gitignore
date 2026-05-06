@@ -1,0 +1,10 @@
+# Source 3D models — too large for GitHub, not needed at runtime
+# (the wireframe is already embedded as base64 in the HTML)
+*.obj
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
